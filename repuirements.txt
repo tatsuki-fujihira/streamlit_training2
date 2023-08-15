@@ -1,2 +1,2 @@
-texttospeech
+google-cloud-texttospeech
 streamlit
